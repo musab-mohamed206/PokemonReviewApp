@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b71050c-b82e-45e0-9431-23a059478f84": {
+      "ProjectGuid": "7b71050c-b82e-45e0-9431-23a059478f84",
+      "DisplayName": "PokemonReviewApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
